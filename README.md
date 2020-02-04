@@ -66,11 +66,11 @@ OpenBayes 数据格式以 meta.csv 为数据集的主要格式文件，文件以
 ### 样例图
 病人肺片选取的样例图为：图片大小 512x512
 
-![https://github.com/signcl/2019-nCoV/blob/master/orgdemo.png](2019%20nCoV/Untitled.png)
+![https://github.com/signcl/2019-nCoV/raw/master/orgdemo.png](https://github.com/signcl/2019-nCoV/raw/master/orgdemo.png)
 
 磨玻璃：（样例结果为个人涂鸦）
 
-![https://github.com/signcl/2019-nCoV/blob/master/labeldemo.png](2019%20nCoV/Untitled%201.png)
+![https://github.com/signcl/2019-nCoV/raw/master/labeldemo.png](https://github.com/signcl/2019-nCoV/raw/master/labeldemo.png)
 
 ## 数据集：
 请登录石墨文档 https://shimo.im/sheets/Qh9jQJqxPyCrDcyx/RIDOC 认领数据集
