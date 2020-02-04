@@ -63,6 +63,7 @@ OpenBayes 数据格式以 meta.csv 为数据集的主要格式文件，文件以
     │   ├── 001.dcm
     │   └── 001_ground_glass.png
     │   └── 001_honeycombing.png
+    .
 ### 样例图
 病人肺片选取的样例图为：图片大小 512x512
 
