@@ -64,9 +64,6 @@ OpenBayes 数据格式以 meta.csv 为数据集的主要格式文件，文件以
     │   └── 001_ground_glass.png
     │   └── 001_honeycombing.png
 
-
-
-
 数据集：
 * DeepLesion - 磨玻璃
 * LUNA
